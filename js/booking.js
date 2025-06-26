@@ -307,7 +307,7 @@ const additionalServices = {
       en: 'Balloon Animals',
       et: 'Õhupalliloomad',
       ru: 'Животные из воздушных шаров',
-      price: 95,
+      price: 105,
       priceUnit: '1h'
     },
     partyAnimator: {
@@ -323,13 +323,6 @@ const additionalServices = {
       ru: 'Фокусник',
       price: 125,
       priceUnit: '30min'
-    },
-    scienceTheater: {
-      en: 'Science theater, from',
-      et: 'Teadusteater, alates',
-      ru: 'Научный театр, от',
-      price: 110,
-      priceUnit: '45min'
     },
     bugsShow: {
       en: 'Bugs program',
