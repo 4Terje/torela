@@ -8,14 +8,12 @@ ru: /ru/events/
 ---
 # JÄRGMISED MÄNGUHOMMIKUD
 
-**05.06.25 - (N) SENSOORNE MÄNGUHOMMIK DINOSAURUSTEGA**
+**MÄNGUHOMMIK**
 Ootame teid mänguhommikule! 🥳🥳
 Laud kaetud hea-paremaga ning loomulikult pakume ka kohvi-teed.
 Osalustasu: 10€ (1 laps+vanem) / 15€ (lapsed+vanem)
 
 **MÄNGUHOMMIKUD**
-
-Tavaliste sündmuste osalustasu on 7€ (laps+vanem), 10€ (lapsed+vanem).
 Kindlasti küsige ka [Stampy.Guru](https://stampy.guru/) digitempleid! 
 5x Torelat külastate, on 6.kord TASUTA!!
 
