@@ -48,9 +48,9 @@ ru: /ru/services/
   
   Lisaks saab teha ka vesitätoveeringuid - 30€/30min. 
 
-  
 
-## ÕHUPALLILOOMAD - 95€/1h {#balloonAnimals}
+
+## ÕHUPALLILOOMAD - 105€/1h {#balloonAnimals}
 
   Meelika Mäeorg teeb kõige vahvamaid õhupalliloomi!
 
@@ -380,31 +380,6 @@ Lisatopsid 10tk 4,00€
   <img alt="Richard Samarüütel" src="mustkunstnik1.jpg" height="250">
   <img alt="Richard Samarüütel" src="mustkunstnik2.jpg" height="250">
   
-  
-## TEADUSTEATER- al 110€ {#scienceTheater}
-
-  **TEADUSTEATER - 110€/45min.**
-  
-  Koosneb erinevates katsetest, sealhulgas huvitavad värvimängud, teadusmaagia ja kuivjää võlud. Lapsed saavad tutvust teha nii füüsika- kui ka keemiaseadustega ja seda muidugi väga lihtsas ja lapsesõbralikus võtmes.
-
-Kuulajate arvu maksimum puudub!
-  
-  **LIMA TÖÖTUBA - 12€/in€/45min**
-  
-Lapsed saavad meisterdada kaks erinevat lima ja neid erinevate sädeluste ja elementidega kaunistada. Lapsed saavad limad endale. Lisaks saavad lapsed kohapeal mängida poolvedela limaga.
-
-Osalejate arv: kuni 12
-Hind lapsevanemale / peo korraldajale: <6 in 15€/in ; 7-12 in 12€/in
-
-  **KEEMIA TÖÖTUBA - 12€/in€/45min**
-  
-Lapsed tutvuvad labori ohutusreeglitega. Õpime tundma aluseid ja happeid ning ainete tihedusi. Lisaks saab iga laps teha oma vulkaani ja laavalambi.
-
-Osalejate arv: kuni 12
-Hind lapsevanemale / peo korraldajale: <6 in 15€/in ; 7-12 in 12€/in
-
-  <img alt="Teadustund" src="teadustund1024_1.jpg" height="250">
-
   
 ## MULLISHOW - al 125€/40min {#mullimeister}
 
